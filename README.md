@@ -20,10 +20,22 @@
 Работаю с основной БД ℙ𝕠𝕤𝕥𝕘𝕣𝕖𝕊ℚ𝕃, если говорим про 𝔽𝕒𝕤𝕥𝔸ℙ𝕀 то это 𝕊ℚ𝕃𝔸𝕝𝕔𝕙𝕖𝕞𝕪.<br>
 Что касается 𝕗𝕣𝕠𝕟𝕥𝕖𝕟𝕕, то это ℂ𝕊𝕊, ℍ𝕋𝕄𝕃, 𝕌𝕀 𝕂𝕀𝕋 𝔹𝕠𝕠𝕥𝕤𝕥𝕣𝕒𝕡 и немного 𝕛𝕒𝕧𝕒𝕤𝕔𝕣𝕚𝕡𝕥. Работа с формами и надстройка 𝕗𝕣𝕠𝕟𝕥𝕖𝕟𝕕 через 𝕁𝕚𝕟𝕛𝕒𝟚.
 
+---
+
+𝔾𝕖𝕟𝕖𝕣𝕒𝕝 𝕚𝕟𝕗𝕠𝕣𝕞𝕒𝕥𝕚𝕠𝕟:
+<div align="center">
+<a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meatdam&theme=solarized_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Meatdam&theme=solarized_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Meatdam&theme=solarized_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Meatdam&theme=solarized_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meatdam&theme=solarized_dark" />
+</a>
+</div>
 
 ---
 
-Технологии с которыми работаю: 
+𝕄𝕪 𝕥𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤: 
 <div>
 <a>
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
@@ -175,7 +187,7 @@
 
 ---
 
-Frontend:
+𝔽𝕣𝕠𝕟𝕥𝕖𝕟𝕕:
 <br>
 <br>
 <div align="center">  
@@ -187,7 +199,7 @@ Frontend:
 
 ---
 
-Backend:<br>
+𝔹𝕒𝕔𝕜𝕖𝕟𝕕:<br>
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
@@ -205,7 +217,7 @@ Backend:<br>
 
 ---
 
-DevOps: 
+𝔻𝕖𝕧𝕆𝕡𝕤: 
 <br>
 <br>
 <div align="center">  
@@ -219,13 +231,14 @@ DevOps:
 
 ---
 
+𝔾𝕚𝕥 ℍ𝕦𝕓 𝕤𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤:
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Meatdam&theme=dark&locale=ru&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 ---
 
-Codewars: <br>
+ℂ𝕠𝕕𝕖𝕨𝕒𝕣𝕤 𝕤𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤: <br>
 <div align="center">
 <a href="https://www.codewars.com/users/Meatdam/badges/large"><img src="https://www.codewars.com/users/Meatdam/badges/large" /></a> 
 </div><br>
@@ -234,9 +247,10 @@ Codewars: <br>
 
 ---
 
+𝔽𝕖𝕖𝕕𝕓𝕒𝕔𝕜:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div><br>
 <div align="center">
 <a href="https://github.com/Meatdam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
