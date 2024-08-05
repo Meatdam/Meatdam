@@ -8,6 +8,20 @@
 <h3 align="center">🅼🆈 🅼🅰🅸🅽 🆂🆃🅰🅲🅺 🅸🆂</h3>
 <h4 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A881&width=435&lines=𝔻𝕛𝕒𝕟𝕘𝕠%2C+𝔻𝕛𝕒𝕟𝕘𝕠+ℝ𝔼𝕊𝕋+𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜%2C+𝔽𝕒𝕤𝕥𝔸𝕡𝕚" alt="Typing SVG" /></a></h4>
 <br>
+
+---
+
+<h4>Обо мне:</h4>
+Привет и добро пожаловать в мой 𝔾𝕚𝕥 ℝ𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕪!<br>
+Я являюсь python разработчиком. Мой основной стек это 𝔻𝕛𝕒𝕟𝕘𝕠, 𝔻𝕛𝕒𝕟𝕘𝕠 ℝ𝔼𝕊𝕋 𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜, так же глубоко изучаю фреймвок 𝔽𝕒𝕤𝕥𝔸ℙ𝕀.<br>
+Так как, именно 𝔽𝕒𝕤𝕥𝔸ℙ𝕀 очень сильно набирает свои обороты, в веб разработке.<br>
+Активно изучаю вопросы каксательные асинхронной разработке а именно: 𝔸𝕤𝕚𝕟𝕔𝕚𝕠, 𝕞𝕦𝕝𝕥𝕚𝕡𝕣𝕠𝕔𝕖𝕤𝕤𝕚𝕟𝕘, 𝕥𝕙𝕣𝕖𝕒𝕕𝕚𝕟𝕘.<br>
+Имею опыт с очередями ℂ𝕖𝕝𝕖𝕣𝕪 с поключением брокера через БД ℝ𝕖𝕕𝕚𝕤.<br> 
+Работаю с основной БД ℙ𝕠𝕤𝕥𝕘𝕣𝕖𝕊ℚ𝕃, если говорим про 𝔽𝕒𝕤𝕥𝔸ℙ𝕀 то это 𝕊ℚ𝕃𝔸𝕝𝕔𝕙𝕖𝕞𝕪
+
+
+---
+
 Frontend:
 <br>
 <br>
@@ -16,6 +30,8 @@ Frontend:
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>   
 </div><br>
+
+---
 
 Backend:<br>
 <div>    
@@ -26,6 +42,9 @@ Backend:<br>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 <br>
+
+---
+
 DevOps: 
 <br>
 <br>
@@ -38,7 +57,11 @@ DevOps:
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-Connect with me:  
+---
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <div align="center">
 <a href="https://github.com/Meatdam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
