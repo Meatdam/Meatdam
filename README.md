@@ -40,22 +40,22 @@ DevOps:
 
 Connect with me:  
 <div align="center">
-<a href="https://github.com/https://github.com/Meatdam" target="_blank">
+<a href="https://github.com/Meatdam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/https://gitlab.com/skyeng2/loft" target="_blank">
+<a href="https://gitlab.com/skyeng2/loft" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/kuzkin_ilya" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/https://www.behance.net/2020fc77" target="_blank">
+<a href="https://www.behance.net/2020fc77" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/https://www.codewars.com/users/Meatdam" target="_blank">
+<a href="https://www.codewars.com/users/Meatdam" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>  
