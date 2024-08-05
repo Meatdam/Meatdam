@@ -234,7 +234,7 @@ DevOps:
 <a href="https://discordapp.com/users/1132583124308598824" target="_blank">
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </a> 
-<a href="https://t.me/Ilia_kuzkin" target="_blank">
+<a href="https://t.me/Ilya_kuzkin" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
